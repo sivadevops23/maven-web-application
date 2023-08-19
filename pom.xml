@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maven Web App Release</name>
-	      <url>http://3.109.144.125:8081/repository/maven-web-app-release</url>
+	      <url>http://172.31.33.51:9980/devops/repository/facbook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven Web App Snapshot </name>
-	      <url>http://3.109.144.125:8081/repository/maven-snapshots</url>
+	      <url>http://172.31.33.51:9980/devops/repository/facbook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
