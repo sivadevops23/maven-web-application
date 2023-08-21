@@ -10,7 +10,8 @@
 </head>
 <body>
 <h1 align="center"> Good Morning Guys...</h1>
-<h1 align="center">Welcome to AWS-DevOps Training , This is our 7th batch training class timings 9:30am to 11am,duration:3 months Phone: 7842602230 from Rajampet,Kadapa, Andhra Pradesh</h1>
+<h1 align="center">Welcome to AWS-DevOps Training Andhra Pradesh</h1>
+<h1  align="center">New batch starting from monday</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -29,13 +30,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span>
 		<img src="images/DevOps.jpg" alt="" width="100">
 	</span>
-	<span style="font-weight: bold;">
-		DevOps Online Training, 
-		Trainer : Jeevan Dandoji,
-		Rajampet-516115.
-		Andra Pradesh.
-		+91-7842602230
-		djeevan12@gmail.com
+	<span style="font-weight: bold;"
+                  Hi
+                  Hello
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to DevOps Online Training</a>
 	</span>
@@ -45,7 +42,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>DevOps - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://DevOpstechnologies.com/">DevOps Online Training</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://DevOpstechnologies.com/">DevOps Online Training</a> </small></p>
 
 </body>
 </html>
